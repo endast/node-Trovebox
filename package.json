@@ -10,8 +10,11 @@
     ],
     "repository": {
         "type": "git",
-        "url": ""
+        "url": "https://github.com/endast/node-Trovebox.git"
     },
+    "bugs": {
+    "url": "https://github.com/endast/node-Trovebox/issues"
+  },
     "author": {
         "name": "Magnus Wahlberg",
         "email": "endast@gmail.com",
