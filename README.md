@@ -25,6 +25,9 @@ node-Trovebox is a node.js client library for Trovebox...
            console.log(data);
         }
     });
+    
+Simple example app:
+https://github.com/endast/node-trovebox-example
 
 ## Todo
 
