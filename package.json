@@ -20,7 +20,7 @@
     "licenses": [
         {
             "type": "Apache",
-            "url": ""
+            "url": "https://raw.github.com/endast/node-Trovebox/master/LICENSE"
         }
     ],
     "main": "index.js",
