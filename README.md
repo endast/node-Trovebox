@@ -1,6 +1,7 @@
 # Trovebox API client library for node.js
 
-node-Trovebox is a client library for 
+node-Trovebox is a node.js client library for Trovebox...
+
 
 ## Requirements
 * Python 2.7
@@ -29,6 +30,13 @@ node-Trovebox is a client library for
            console.log(data);
         }
     });
+
+## Todo
+
+Group api
+
+Webhooks api
+
 ## Versions
 
 0.0.1 - First version
