@@ -2,11 +2,6 @@
 
 node-Trovebox is a node.js client library for Trovebox...
 
-
-## Requirements
-* Python 2.7
-* Trovebox Python Library 
-
 ## Installation
 
     npm install trovebox 
