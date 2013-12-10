@@ -38,3 +38,7 @@ Webhooks api
 ## Versions
 
 0.0.2 - First version
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/endast/node-trovebox/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
